@@ -1,0 +1,113 @@
+*{
+    font-family: Arial;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+nav{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.navint{
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.navleft img{
+    height: 100px;
+    width: 200px;
+}
+.navleft{
+    display: flex;
+    height: 100px;
+    width: 250px;
+    align-items: center;
+}
+.navright{
+    display: flex;
+    height: 100px;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+li{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.placarint{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+.placar{
+    width: 160px;
+    height: 60px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.placarimg{
+    justify-items: center;
+}
+
+
+.bola{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: no-repeat;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
